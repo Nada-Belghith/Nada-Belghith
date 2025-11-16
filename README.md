@@ -2,13 +2,13 @@
 
 🚀 Student & Passionate Developer
 🌱 I’m currently working on projects involving:
- -DevOps (Jenkins, Docker, CI/CD)
+ DevOps (Jenkins, Docker, CI/CD)
  -Cloud Computing
  -Machine Learning & Deep Learning
  -Spring Boot & Microservices
  -Flutter mobile applications
 ## 💡 About Me
-🎓 Computer Science student
+🎓 Computer Science Engineering Student
 🔥 Passionate about DevOps and Cloud technologies
 💪 I love learning by building real-world, hands-on projects
 🔬 Curious about DevOps-driven automation (CI/CD, infrastructure automation, cloud workflows)
